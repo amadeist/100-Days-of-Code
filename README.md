@@ -2,4 +2,4 @@
 
 ## Day-1
 
--Start with the [Freecodecamp](https://www.freecodecamp.org/learn)
+- Start with the [Freecodecamp](https://www.freecodecamp.org/learn)
